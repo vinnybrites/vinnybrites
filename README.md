@@ -21,6 +21,6 @@ Prazer! Eu sou o Vinícius Brites
   
   <div> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vinnybrites/vinnybrites/blob/output/github-contribution-grid-snake.svg)
     
   </div>
